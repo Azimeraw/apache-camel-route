@@ -251,7 +251,7 @@
                         <source>src/main/xsd/poXSD</source>
                     </sources>
                     <!-- Package name of the generated sources. -->
-                    <packageName>com.jumbo.jumbo.xmlPOJO.purchaseOrder</packageName>
+                    <packageName>com.example.azimeraw.xmlPOJO.purchaseOrder</packageName>
                     <clearOutputDir>false</clearOutputDir>
                 </configuration>
             </execution>
